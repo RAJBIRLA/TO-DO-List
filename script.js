@@ -10,3 +10,4 @@ function addTask(){
         listContainer.appendChild(li);
     }
 }
+console.log("Hello World")
